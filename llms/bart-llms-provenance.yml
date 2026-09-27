@@ -1,0 +1,6 @@
+generated: '2026-09-27'
+method: probed
+generator: harvest-llms.py
+source: https://www.bart.gov/about/reports
+bytes: 21388
+note: saved verbatim; the provider's own document

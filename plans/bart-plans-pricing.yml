@@ -1,0 +1,154 @@
+generated: '2026-09-27'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.bart.gov/guide/parking/pricing
+sources:
+- https://www.bart.gov/guide/parking/pricing
+- https://www.bart.gov/about/projects
+- https://www.bart.gov/about/planning
+name: Bart pricing
+audience: business-product
+pricing_basis: per-seat
+plans:
+- name: Antioch Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Antioch station
+- name: Ashby Daily Fee
+  price_text: $3.80
+  price: 3.8
+  description: Daily parking fee at Ashby station
+- name: Bay Fair Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Bay Fair station
+- name: Castro Valley Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Castro Valley station
+- name: Coliseum Daily Fee
+  price_text: $4.00
+  price: 4.0
+  description: Daily parking fee at Coliseum station
+- name: Colma Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Colma station
+- name: Concord Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Concord station
+- name: Daly City Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Daly City station
+- name: Dublin/Pleasanton Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Dublin/Pleasanton station
+- name: El Cerrito del Norte Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at El Cerrito del Norte station
+- name: El Cerrito Plaza Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at El Cerrito Plaza station
+- name: Fremont Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Fremont station
+- name: Fruitvale Daily Fee
+  price_text: $4.00
+  price: 4.0
+  description: Daily parking fee at Fruitvale station
+- name: Glen Park Daily Fee
+  price_text: $7.00
+  price: 7.0
+  description: Daily parking fee at Glen Park station
+- name: Hayward Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Hayward station
+- name: Lafayette Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Lafayette station
+- name: MacArthur Daily Fee
+  price_text: $4.70
+  price: 4.7
+  description: Daily parking fee at MacArthur station
+- name: Millbrae Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Millbrae station
+- name: North Berkeley Daily Fee
+  price_text: $3.80
+  price: 3.8
+  description: Daily parking fee at North Berkeley station
+- name: North Concord/Martinez Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at North Concord/Martinez station
+- name: Orinda Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Orinda station
+- name: Pittsburg Center Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Pittsburg Center station
+- name: Pittsburg/Bay Point Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Pittsburg/Bay Point station
+- name: Pleasant Hill/Contra Costa Centre Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Pleasant Hill/Contra Costa Centre station
+- name: Richmond Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Richmond station
+- name: Rockridge Daily Fee
+  price_text: $6.00
+  price: 6.0
+  description: Daily parking fee at Rockridge station
+- name: San Bruno Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at San Bruno station
+- name: San Leandro Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at San Leandro station
+- name: South Hayward Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at South Hayward station
+- name: South San Francisco Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at South San Francisco station
+- name: Union City Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Union City station
+- name: Walnut Creek Daily Fee
+  price_text: $5.00
+  price: 5.0
+  description: Daily parking fee at Walnut Creek station
+- name: Warm Springs/South Fremont Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at Warm Springs/South Fremont station
+- name: West Dublin/Pleasanton Daily Fee
+  price_text: $3.40
+  price: 3.4
+  description: Daily parking fee at West Dublin/Pleasanton station
+- name: West Oakland Daily Fee
+  price_text: $18.00
+  price: 18.0
+  description: Daily parking fee at West Oakland station
+docs: https://www.bart.gov/guide/parking/pricing
+note: 1 extracted row(s) were dropped because their quote was not on the page.

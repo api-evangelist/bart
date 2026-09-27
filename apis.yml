@@ -1,23 +1,83 @@
 aid: bart
+
 name: Bart
-description: 'Bart is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+description: Bay Area Rapid Transit (BART) provides public transit services across the San Francisco Bay Area. It offers real‑time departure information,
+  schedule data, station details, fare information, and developer resources for building applications that integrate transit data. The BART API
+  enables developers to access schedule, real‑time, and system information to create journey planners, alerts, and transit‑related services.
+
 url: https://raw.githubusercontent.com/api-evangelist/bart/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-27 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-27'
+
 modified: '2026-09-27'
+
 tags:
-- Company
-apis: []
+- Transit
+- Public Transport
+- API
+- Real-time Data
+- Bay Area
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Plans
+  url: plans/bart-plans-pricing.yml
+- type: LLMsTxt
+  url: llms/bart-llms.txt
+- type: Hosts
+  url: hosts/bart-hosts.yml
+- type: Vendors
+  url: vendors/bart-vendors.yml
+- type: SignUp
+  url: https://www.bart.gov/signup
+- type: PrivacyPolicy
+  url: https://www.bart.gov/siteinfo/privacy
+- type: Pricing
+  url: https://www.bart.gov/guide/parking/pricing
+- type: Newsroom
+  url: https://www.bart.gov/news/articles
+- type: Documentation
+  url: https://api.bart.gov/docs/bsa/
+- type: DeveloperPortal
+  url: https://www.bart.gov/about/developers
+- type: DomainSecurity
+  url: security/bart-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/bart
+  url: https://www.bart.gov
+
+apis:
+- name: BART API
+  description: Public transit data API providing schedules, real-time departures, station info and fare data.
+  humanURL: https://www.bart.gov/about/developers
+  baseURL: null
+  aid: bart:bart-api
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: API documentation is served as HTML pages without a machine‑readable OpenAPI spec.
+  evidence:
+  - url: https://api.bart.gov/docs
+    status: 200
+  checked: '2026-09-27'
+x-enrichment:
+  date: '2026-09-27'
+  status: enriched
+  artifacts_added: 7
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
