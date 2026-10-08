@@ -152,3 +152,220 @@ plans:
   description: Daily parking fee at West Oakland station
 docs: https://www.bart.gov/guide/parking/pricing
 note: 1 extracted row(s) were dropped because their quote was not on the page.
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models:
+  - subscription
+  units: []
+  plans:
+  - name: Antioch Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Ashby Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Bay Fair Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Castro Valley Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Coliseum Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Colma Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Concord Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Daly City Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Dublin/Pleasanton Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: El Cerrito del Norte Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: El Cerrito Plaza Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Fremont Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Fruitvale Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Glen Park Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Hayward Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Lafayette Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: MacArthur Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Millbrae Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: North Berkeley Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: North Concord/Martinez Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Orinda Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Pittsburg Center Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Pittsburg/Bay Point Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Pleasant Hill/Contra Costa Centre Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Richmond Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Rockridge Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: San Bruno Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: San Leandro Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: South Hayward Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: South San Francisco Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Union City Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Walnut Creek Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Warm Springs/South Fremont Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: West Dublin/Pleasanton Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: West Oakland Daily Fee
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
